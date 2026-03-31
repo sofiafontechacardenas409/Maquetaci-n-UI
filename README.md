@@ -44,5 +44,4 @@ La Column organiza los elementos de forma vertical, mientras que SizedBox se uti
 - Carga de imágenes desde internet
 - Diseño adaptable sin errores de desbordamiento
 
-## Autor
 Sofía Fontecha Cardenas
